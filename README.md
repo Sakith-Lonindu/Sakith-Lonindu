@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakith lonindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakith lonindu" height="30" width="40" /></a>
-<a href="https://fb.com/sakith lonindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakith lonindu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakith-lonindu-3b1755281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakith lonindu" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100011246557000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakith lonindu" height="30" width="40" /></a>
 <a href="https://instagram.com/sakith_lonindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakith_lonindu" height="30" width="40" /></a>
 </p>
 
